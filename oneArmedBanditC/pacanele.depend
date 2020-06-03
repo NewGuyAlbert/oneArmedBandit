@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589093926 source:c:\users\danil\onedrive\desktop\c elective\mand2\pacanele\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
